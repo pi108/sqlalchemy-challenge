@@ -104,7 +104,7 @@ The minimum temperature was 67.00 degrees Fahrenheit. <br>
 The average temperature was 71.32 degrees Fahrenheit. <br>
 The maximum temperature was 77.00 degrees Fahrenheit. <br>
 
-## Analysis of total precipitation levels for fictitious trip dates: 
+## Analysis of total precipitation levels for for fictitious proposed trip dates using prior year data: 
 We picked a set of fictitious trip dates: 12/01/2017 to 12/09/2017. <br>
 We then analyzed the total precipitation levels for the same Month-Date combination but for the prior year, from this dataset. <br> 
 So, in this case, we analyzed the total precipitation levels for the dates: 12/01/16 to 12/09/16. <br>
