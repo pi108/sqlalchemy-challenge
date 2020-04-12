@@ -9,14 +9,13 @@ A jupyter notebook file called “climate_analysis”
 A python file called “climate_app”
 
 ### Folder called Resources:
-This folder contains 2 csv files as follows:<br>
+This folder contains the following:<br>
 1. hawaii_stations.csv<br>
 2. hawaii_measurements.csv<br>
-This folder also contains the following SQLite database file:<br>
-3. hawaii.sqlite
-This SQLite database contains 2 tables:<br>
-3-A. Station: This table contains the data in the csv file called “hawaii_stations” mentioned above.<br>
-3-B. Measurement:  This table contains the data in the csv file called “hawaii_measurements” mentioned above. 
+3. hawaii.sqlite<br>
+The SQLite database contains 2 tables:<br>
+(i)  Station: This table contains the data in the csv file called “hawaii_stations” mentioned above. <br>
+(ii) Measurement:  This table contains the data in the csv file called “hawaii_measurements” mentioned above. <br>
 
 ### Folder called Output:
 This Folder contains the charts that were generated as part of the analysis using the jupyter notebook file. There are 4 charts as follows:
@@ -54,7 +53,7 @@ Based on our analysis, we conclude the following:
 
 ## Total Number of Stations:
 There were 9 Stations in the dataset as follows:<br>
-	Station,	    Station Name,	                      	Latitude,	Longitude,	  Elevation <br>
+	STATION,	STATION NAME,	                      		LATITUDE,	LONGITUDE,	  ELEVATION <br>
 1	USC00519397,	WAIKIKI  717.2, HI US,	                  	21.27, 	  	(157.82),	  3.00 <br>
 2	USC00513117,	KANEOHE 838.1, HI US,	                  	21.42,	  	(157.80),	  14.60 <br>
 3	USC00514830,	KUALOA RANCH HEADQUARTERS 886.9, HI US,		21.52, 	  	(157.84),	  7.00 <br>
@@ -110,7 +109,7 @@ We picked a set of fictitious trip dates: 12/01/2017 to 12/09/2017. <br>
 We then analyzed the total precipitation levels for the same Month-Date combination but for the prior year, from this dataset. <br> 
 So, in this case, we analyzed the total precipitation levels for the dates: 12/01/16 to 12/09/16. <br>
 The results were as follows: <br>
-Station,  	    Total Precipitation (inches) <br>
+STATION,  	  TOTAL PRECIPITATION (INCHES) <br>
 USC00516128, 	  5.99 <br>
 USC00519281, 	  2.25 <br>
 USC00513117, 	  1.67 <br>
@@ -124,7 +123,7 @@ We picked a set of fictitious trip dates: 12/01/2017 to 12/09/2017. <br>
 We then analyzed the temperatures for the same Month-Date combination for all available prior years, from this dataset. <br>
 So, in this case, we analyzed the minimum, average and maximum temperatures for the dates 12/01 to 12/09 for the years 2010 to 2016. <br>
 The results were as follows: <br>
-Date,	  Min,	  	    Avg,	    Max <br>
+DATE,	  MIN,	  	    AVG,	    MAX <br>
 12/1,	  65.00, 	    71.92, 	    78.00  <br>
 12/2,	  62.00, 	    71.33, 	    77.00  <br>
 12/3,	  67.00, 	    72.89, 	    79.00  <br>
