@@ -122,9 +122,9 @@ USC00517948,	  0.27 <br>
 ## Analysis of temperatures for fictitious trip dates using the same Month-Date combination from all available years in the dataset: 
 We picked a set of fictitious trip dates: 12/01/2017 to 12/09/2017. <br>
 We then analyzed the temperatures for the same Month-Date combination for all available prior years, from this dataset. <br>
-So, in this case, we analyzed the temperatures for the dates 12/01 to 12/09 for the years 2010 to 2016. <br>
+So, in this case, we analyzed the minimum, average and maximum temperatures for the dates 12/01 to 12/09 for the years 2010 to 2016. <br>
 The results were as follows: <br>
-Date,	  Min_Temp,	  Avg_Temp,	  Max_Temp <br>
+Date,	  Min,	  	    Avg,	    Max <br>
 12/1,	  65.00, 	    71.92, 	    78.00  <br>
 12/2,	  62.00, 	    71.33, 	    77.00  <br>
 12/3,	  67.00, 	    72.89, 	    79.00  <br>
