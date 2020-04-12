@@ -9,14 +9,14 @@ A jupyter notebook file called “climate_analysis”
 A python file called “climate_app”
 
 ### Folder called Resources:
-This folder contains 2 csv files as follows:
-hawaii_stations.csv
-hawaii_measurements.csv
-This folder also contains the following SQLite database file:
-hawaii.sqlite
-This SQLite database contains 2 tables:
-1.Station: This table contains the data in the csv file called “hawaii_stations” mentioned above.
-2.Measurement:  This table contains the data in the csv file called “hawaii_measurements” mentioned above. 
+This folder contains 2 csv files as follows:<br>
+1. hawaii_stations.csv<br>
+2. hawaii_measurements.csv<br>
+This folder also contains the following SQLite database file:<br>
+3. hawaii.sqlite
+This SQLite database contains 2 tables:<br>
+3-A.Station: This table contains the data in the csv file called “hawaii_stations” mentioned above.<br>
+3-B.Measurement:  This table contains the data in the csv file called “hawaii_measurements” mentioned above. 
 
 ### Folder called Output:
 This Folder contains the charts that were generated as part of the analysis using the jupyter notebook file. There are 4 charts as follows:
