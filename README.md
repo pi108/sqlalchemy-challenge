@@ -73,7 +73,8 @@ The maximum precipitation was 6.7 inches. <br>
 The standard deviation of the precipitation was 0.46 inches. <br>
 
 ## The Most Active Station in the dataset:
-The station with the greatest number of observations was station “USC00519281”, which corresponds to “WAIHEE 837.5, HI, US”. <br> 
+The station with the greatest number of observations was: <br>
+Station “USC00519281”, which corresponds to “WAIHEE 837.5, HI, US”. <br> 
 This station had 2772 rows in the dataset. <br>
 
 ## The Temperature Observations, for the Most Active Station (“USC00519281”), for the entire period of the dataset (01/01/2010 to 08/23/2017):
@@ -97,38 +98,41 @@ The p-value returned from this test was significantly lower than 0.05 implying t
 In other words, we can conclude that there is a statistically significant difference in the means between the June and the December temperatures in this dataset. <br>
 
 ## Analysis of temperatures for fictitious proposed trip dates using prior year data: 
-•	We picked a set of fictitious trip dates: 12/01/2017 to 12/09/2017.
-•	We then analyzed the temperatures for the same Month-Date combination but for the prior year, from this dataset. So, in this case, we analyzed the temperatures for the dates: 12/01/16 to 12/09/16.
-•	The minimum temperature was 67.00 degrees Fahrenheit.
-•	The average temperature was 71.32 degrees Fahrenheit.
-•	The maximum temperature was 77.00 degrees Fahrenheit.
+We picked a set of fictitious trip dates: 12/01/2017 to 12/09/2017. <br>
+We then analyzed the temperatures for the same Month-Date combination but for the prior year, from this dataset. <br>
+So, in this case, we analyzed the temperatures for the dates: 12/01/16 to 12/09/16. <br>
+The minimum temperature was 67.00 degrees Fahrenheit. <br>
+The average temperature was 71.32 degrees Fahrenheit. <br>
+The maximum temperature was 77.00 degrees Fahrenheit. <br>
 
 ## Analysis of total precipitation levels for fictitious trip dates: 
-•	We picked a set of fictitious trip dates: 12/01/2017 to 12/09/2017.
-•	We then analyzed the total precipitation levels for the same Month-Date combination but for the prior year, from this dataset. So, in this case, we analyzed the total precipitation levels for the dates: 12/01/16 to 12/09/16.
-•	The results were as follows:
-Station 	    Total Precipitation (inches)
-USC00516128	  5.99
-USC00519281	  2.25
-USC00513117	  1.67
-USC00514830	  1.21
-USC00519397	  1.18
-USC00519523	  1.04
-USC00517948	  0.27
+We picked a set of fictitious trip dates: 12/01/2017 to 12/09/2017. <br>
+We then analyzed the total precipitation levels for the same Month-Date combination but for the prior year, from this dataset. <br> 
+So, in this case, we analyzed the total precipitation levels for the dates: 12/01/16 to 12/09/16. <br>
+The results were as follows: <br>
+Station,  	    Total Precipitation (inches) <br>
+USC00516128, 	  5.99 <br>
+USC00519281, 	  2.25 <br>
+USC00513117, 	  1.67 <br>
+USC00514830, 	  1.21 <br>
+USC00519397, 	  1.18 <br>
+USC00519523, 	  1.04 <br>
+USC00517948,	  0.27 <br>
 
 ## Analysis of temperatures for fictitious trip dates using the same Month-Date combination from all available years in the dataset: 
-•	We picked a set of fictitious trip dates: 12/01/2017 to 12/09/2017.
-•	We then analyzed the temperatures for the same Month-Date combination for all available prior years, from this dataset. So, in this case, we analyzed the temperatures for the dates 12/01 to 12/09 for the years 2010 to 2016.
-•	The results were as follows:
-Date	  Min_Temp	  Avg_Temp	  Max_Temp
-12/1	  65.00 	    71.92 	    78.00 
-12/2	  62.00 	    71.33 	    77.00 
-12/3	  67.00 	    72.89 	    79.00 
-12/4	  66.00 	    72.18 	    81.00 
-12/5	  64.00 	    70.92 	    78.00 
-12/6	  61.00 	    69.39 	    78.00 
-12/7	  58.00 	    69.20 	    79.00 
-12/8	  60.00 	    70.27 	    83.00 
-12/9	  64.00 	    71.90 	    80.00 
+We picked a set of fictitious trip dates: 12/01/2017 to 12/09/2017. <br>
+We then analyzed the temperatures for the same Month-Date combination for all available prior years, from this dataset. <br>
+So, in this case, we analyzed the temperatures for the dates 12/01 to 12/09 for the years 2010 to 2016. <br>
+The results were as follows: <br>
+Date,	  Min_Temp,	  Avg_Temp,	  Max_Temp <br>
+12/1,	  65.00, 	    71.92, 	    78.00  <br>
+12/2,	  62.00, 	    71.33, 	    77.00  <br>
+12/3,	  67.00, 	    72.89, 	    79.00  <br>
+12/4,	  66.00, 	    72.18, 	    81.00  <br>
+12/5,	  64.00, 	    70.92, 	    78.00  <br>
+12/6,	  61.00, 	    69.39, 	    78.00  <br>
+12/7,	  58.00, 	    69.20, 	    79.00  <br>
+12/8,	  60.00, 	    70.27, 	    83.00  <br>
+12/9,	  64.00, 	    71.90, 	    80.00 <br>
 
 
