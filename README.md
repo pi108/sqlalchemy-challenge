@@ -15,8 +15,8 @@ This folder contains 2 csv files as follows:<br>
 This folder also contains the following SQLite database file:<br>
 3. hawaii.sqlite
 This SQLite database contains 2 tables:<br>
-3-A.Station: This table contains the data in the csv file called “hawaii_stations” mentioned above.<br>
-3-B.Measurement:  This table contains the data in the csv file called “hawaii_measurements” mentioned above. 
+3-A. Station: This table contains the data in the csv file called “hawaii_stations” mentioned above.<br>
+3-B. Measurement:  This table contains the data in the csv file called “hawaii_measurements” mentioned above. 
 
 ### Folder called Output:
 This Folder contains the charts that were generated as part of the analysis using the jupyter notebook file. There are 4 charts as follows:
