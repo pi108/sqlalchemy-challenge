@@ -107,9 +107,9 @@ The maximum temperature was 77.00 degrees Fahrenheit. <br>
 ## Analysis of total precipitation levels for for fictitious proposed trip dates using prior year data: 
 We picked a set of fictitious trip dates: 12/01/2017 to 12/09/2017. <br>
 We then analyzed the total precipitation levels for the same Month-Date combination but for the prior year, from this dataset. <br> 
-So, in this case, we analyzed the total precipitation levels for the dates: 12/01/16 to 12/09/16. <br>
+So, in this case, we analyzed the total precipitation levels (in inches)for the dates: 12/01/16 to 12/09/16. <br>
 The results were as follows: <br>
-STATION,  	  TOTAL PRECIPITATION (INCHES) <br>
+STATION,  	  TOTAL PRECIPITATION <br>
 USC00516128, 	  5.99 <br>
 USC00519281, 	  2.25 <br>
 USC00513117, 	  1.67 <br>
@@ -121,7 +121,7 @@ USC00517948,	  0.27 <br>
 ## Analysis of temperatures for fictitious trip dates using the same Month-Date combination from all available years in the dataset: 
 We picked a set of fictitious trip dates: 12/01/2017 to 12/09/2017. <br>
 We then analyzed the temperatures for the same Month-Date combination for all available prior years, from this dataset. <br>
-So, in this case, we analyzed the minimum, average and maximum temperatures for the dates 12/01 to 12/09 for the years 2010 to 2016. <br>
+So, in this case, we analyzed the minimum, average and maximum temperatures (in degrees fahrenheit) for the dates 12/01 to 12/09 for the years 2010 to 2016. <br>
 The results were as follows: <br>
 DATE,	  MIN,	  	    AVG,	    MAX <br>
 12/1,	  65.00, 	    71.92, 	    78.00  <br>
